@@ -1,0 +1,13 @@
+{
+  "profile": {
+    "key": "innovation-pipeline",
+    "quadrants": { "tools": "POV", "process": "Ideation", "technology": "POC", "other": "MVP" },
+    "rings": { "adopt": "Active", "trial": "Building", "assess": "Exploring", "hold": "Parked" },
+    "quadrant_rings": {
+      "process": { "adopt": "Shape Opportunity", "trial": "Validate Problem", "assess": "Explore", "hold": "Park" },
+      "technology": { "adopt": "Demo", "trial": "Build", "assess": "Spike", "hold": "Park" },
+      "tools": { "adopt": "Present", "trial": "Prove Value", "assess": "Measure", "hold": "Park" },
+      "other": { "adopt": "Ship", "trial": "Develop", "assess": "Design", "hold": "Park" }
+    }
+  }
+}
