@@ -1,0 +1,5 @@
+/blips/**/*.pdf filter=lfs diff=lfs merge=lfs -text
+/blips/**/*.zip filter=lfs diff=lfs merge=lfs -text
+/blips/**/*.xlsx filter=lfs diff=lfs merge=lfs -text
+/blips/**/*.mp4 filter=lfs diff=lfs merge=lfs -text
+/blips/**/*.pptx filter=lfs diff=lfs merge=lfs -text
