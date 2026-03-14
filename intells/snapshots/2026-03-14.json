@@ -1,0 +1,64 @@
+{
+  "date": "2026-03-14",
+  "total": 6,
+  "by_phase": {
+    "technology": 2,
+    "tools": 2,
+    "process": 1,
+    "other": 1
+  },
+  "by_status": {
+    "active": 5,
+    "delivered": 1,
+    "parked": 0
+  },
+  "by_impact": {
+    "low": 3,
+    "high": 3
+  },
+  "contributors": 2,
+  "intells": [
+    {
+      "slug": "intelhub",
+      "type": "technology",
+      "ring": "trial",
+      "status": "being-assessed",
+      "expected_impact": "low"
+    },
+    {
+      "slug": "claude-code-evaluation",
+      "type": "tools",
+      "ring": "trial",
+      "status": "being-assessed",
+      "expected_impact": "high"
+    },
+    {
+      "slug": "kiro-evaluation",
+      "type": "tools",
+      "ring": "assess",
+      "status": "being-assessed",
+      "expected_impact": "low"
+    },
+    {
+      "slug": "spec-driven-development-methods",
+      "type": "process",
+      "ring": "hold",
+      "status": "potential",
+      "expected_impact": "low"
+    },
+    {
+      "slug": "aws-strands-agentic-systems",
+      "type": "technology",
+      "ring": "adopt",
+      "status": "being-assessed",
+      "expected_impact": "high"
+    },
+    {
+      "slug": "github-copilot",
+      "type": "other",
+      "ring": "adopt",
+      "status": "delivered",
+      "expected_impact": "high"
+    }
+  ]
+}
