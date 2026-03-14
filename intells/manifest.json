@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "slug": "intelhub",
+    "title": "IntelHub",
+    "type": "tools",
+    "ring": "trial",
+    "in_radar": true,
+    "status": "being-assessed",
+    "expected_impact": "low",
+    "abstract": "A desktop tooling for technology watch and innovation tracking, enabling companies of any size to gain clarity on what initiatives are being pursued across the organisation.",
+    "tags": ["tooling", "innovation", "technology-watch", "desktop-app", "open-source"],
+    "created_at": "2026-03-14T10:00:00.000Z",
+    "updated_at": "2026-03-14T10:00:00.000Z",
+    "created_by": "ppaccaud",
+    "updated_by": "ppaccaud",
+    "source_hub": null
+  }
+]
