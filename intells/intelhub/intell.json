@@ -14,19 +14,9 @@
   "linked_issues": [],
   "linked_discussions": [],
   "linked_files": [
-    "studies/is-there-any-solutions-in-teh-maket.md",
     "studies/is-there-any-solutions-in-teh-maket-1773483986235.md"
   ],
   "artifacts": [
-    {
-      "id": "2d4b10ea-0f97-4f8b-b26a-88da476e07be",
-      "kind": "study",
-      "title": "is there any solutions in teh maket",
-      "path": "studies/is-there-any-solutions-in-teh-maket.md",
-      "summary": "",
-      "created_at": "2026-03-14T00:00:00.000Z",
-      "valid_until": null
-    },
     {
       "id": "feb3677a-23c7-4ea9-8b4e-fd0f8c966b2a",
       "kind": "study",
@@ -48,7 +38,7 @@
     "open-source"
   ],
   "created_at": "2026-03-14T10:00:00.000Z",
-  "updated_at": "2026-03-14T11:38:30.194Z",
+  "updated_at": "2026-03-14T11:38:38.689Z",
   "created_by": "ppaccaud",
   "updated_by": "pppaccau_amadeus",
   "source_hub": null
