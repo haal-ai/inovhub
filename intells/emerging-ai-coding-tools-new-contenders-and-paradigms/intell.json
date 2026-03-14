@@ -1,0 +1,31 @@
+{
+  "slug": "emerging-ai-coding-tools-new-contenders-and-paradigms",
+  "title": "Emerging AI Coding Tools: New Contenders and Paradigms",
+  "type": "process",
+  "ring": "hold",
+  "in_radar": true,
+  "expected_impact": "unknown",
+  "status": "human-reviewed",
+  "abstract": "",
+  "why_we_care": "tools keep on pbeing proposed by teh market with some  differentiatirs - oopen being eth claude code contender and PI being a new kind of pardigm",
+  "summary": "Opencode and PI  as potential  alternative  for some users",
+  "description": "New tools continue to emerge in the market with distinct differentiators. OpenCode is positioning itself as a competitor to Claude Code, while PI represents a new kind of paradigm — an agentic solution built around a bring-your-own-agentic-tool approach.",
+  "tags": [
+    "genai",
+    "tool",
+    "cli"
+  ],
+  "linked_issues": [],
+  "linked_discussions": [],
+  "linked_files": [],
+  "artifacts": [],
+  "linked_urls": [
+    "https://github.com/badlogic/pi-mono",
+    "https://deepwiki.com/badlogic/pi-mono/1-overview"
+  ],
+  "id": "8e37f7db-18c9-42bf-b27e-4c5250a3c3f2",
+  "created_at": "2026-03-14T11:59:19.753Z",
+  "updated_at": "2026-03-14T11:59:19.753Z",
+  "created_by": "pjmp020564",
+  "updated_by": "pjmp020564"
+}
