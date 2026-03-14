@@ -69,5 +69,30 @@
     "created_by": "ppaccaud",
     "updated_by": "pjmp020564",
     "source_hub": null
+  },
+  {
+    "slug": "spec-driven-development-methods",
+    "title": "Spec-Driven Development Methods",
+    "type": "process",
+    "ring": "hold",
+    "in_radar": true,
+    "status": "potential",
+    "expected_impact": "low",
+    "abstract": "An overview of emerging spec-driven development (SDD) frameworks and tools — BMAD Method, OpenSpec, GitHub Spec Kit — that structure AI-assisted development around specifications rather than ad-hoc prompts.",
+    "tags": [
+      "sdd",
+      "spec-driven-development",
+      "genai",
+      "methodology",
+      "innovation",
+      "bmad",
+      "openspec",
+      "spec-kit"
+    ],
+    "created_at": "2026-03-14T06:30:00.000Z",
+    "updated_at": "2026-03-14T06:30:00.000Z",
+    "created_by": "ppaccaud",
+    "updated_by": "ppaccaud",
+    "source_hub": null
   }
 ]
