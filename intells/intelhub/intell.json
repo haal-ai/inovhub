@@ -13,8 +13,20 @@
   "description": "IntelHub is an open-source desktop application built with Tauri v2 and SvelteKit, available at https://github.com/haal-ai/haal-intelhub. It operates with two distinct profiles:\n\n**IntelHub profile** — Focused on technology watch. Teams track tools, technologies, and processes across a tech-radar-style visualisation with rings (Adopt, Trial, Assess, Hold) to reflect maturity and recommendation level.\n\n**InovHub profile** — Focused on innovation pipeline. Teams track initiatives through an innovation funnel: Ideation, POC (Proof of Concept), POV (Proof of Value), and MVP (Minimal Shippable Product), each with phase-specific rings reflecting progress.\n\nKey characteristics:\n- Git-backed: all data lives in a Git repository, providing full history and collaboration via pull requests.\n- GitHub-integrated: discussions, issues, and news are pulled from the GitHub repository.\n- Multi-hub: users can follow multiple hubs simultaneously and switch between them.\n- Low barrier: no server infrastructure needed — just clone and go.\n\nThis initiative is currently in the ideation phase. A demonstrative version of the tooling has been realised to validate the concept. No AI capabilities are included at this stage, but the architecture is designed to accommodate them if user interest is demonstrated.\n\nThe expected impact on any company is low at this stage — the primary benefit being clarity of technology watch status and innovation progress tracking.",
   "linked_issues": [],
   "linked_discussions": [],
-  "linked_files": [],
-  "artifacts": [],
+  "linked_files": [
+    "studies/are-thei-existing-such-solutio.md"
+  ],
+  "artifacts": [
+    {
+      "id": "cf9088da-c28f-437c-bac7-eb09fd5274b9",
+      "kind": "study",
+      "title": "are thei existing such solutio?",
+      "path": "studies/are-thei-existing-such-solutio.md",
+      "summary": "find themn and consult teh web if you can",
+      "created_at": "2026-03-14T00:00:00.000Z",
+      "valid_until": null
+    }
+  ],
   "linked_urls": [
     "https://github.com/haal-ai/haal-intelhub"
   ],
@@ -26,8 +38,8 @@
     "open-source"
   ],
   "created_at": "2026-03-14T10:00:00.000Z",
-  "updated_at": "2026-03-14T05:15:26.823Z",
+  "updated_at": "2026-03-14T10:13:02.437Z",
   "created_by": "ppaccaud",
-  "updated_by": "pjmp020564",
+  "updated_by": "pppaccau_amadeus",
   "source_hub": null
 }
