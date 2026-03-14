@@ -1,0 +1,28 @@
+{
+  "id": "44b7cdca-7a2e-453c-b7ab-a3e9ca9f2463",
+  "slug": "github-copilot",
+  "title": "GitHub Copilot",
+  "type": "other",
+  "ring": "adopt",
+  "in_radar": true,
+  "expected_impact": "high",
+  "status": "archived",
+  "abstract": "AI-powered coding assistant deployed as the first GenAI solution delivered to developers across the organization.",
+  "why_we_care": "Developers need intelligent code assistance to accelerate delivery, reduce boilerplate, and improve code quality. GitHub Copilot was the first GenAI tool we evaluated and rolled out at scale, establishing the foundation for our broader AI-assisted development strategy.",
+  "summary": "GitHub Copilot was the first GenAI coding assistant we delivered to our developer population. After evaluation and piloting, it was deployed broadly as an IDE-integrated tool for code completion, chat-based assistance, and code generation. It is now part of the standard developer toolkit and this initiative is archived as delivered.",
+  "description": "GitHub Copilot is an AI-powered coding assistant developed by GitHub and OpenAI. It integrates directly into IDEs (VS Code, JetBrains, etc.) and provides:\n\n- **Inline code completion** \u2014 context-aware suggestions as you type\n- **Chat interface** \u2014 ask questions, explain code, generate tests\n- **Code generation** \u2014 turn natural language descriptions into working code\n- **Multi-language support** \u2014 works across all major programming languages\n\nThis was our **first GenAI initiative to go live**. The journey went through:\n\n- **Ideation** \u2014 identifying the need for AI-assisted coding\n- **POC** \u2014 piloting with early adopter teams\n- **POV** \u2014 measuring productivity impact and developer satisfaction\n- **Go Live** \u2014 broad rollout to many users across the organization\n\nThe initiative is now **archived** as it has been successfully delivered and is part of the standard tooling. Lessons learned from this rollout informed subsequent GenAI initiatives like Claude Code evaluation and Kiro evaluation.",
+  "linked_issues": [],
+  "linked_discussions": [],
+  "linked_files": [],
+  "artifacts": [],
+  "linked_urls": [
+    "https://github.com/features/copilot",
+    "https://docs.github.com/en/copilot"
+  ],
+  "tags": ["genai", "coding-assistant", "github", "developer-tooling", "copilot", "ide"],
+  "created_at": "2026-03-14T06:45:00.000Z",
+  "updated_at": "2026-03-14T06:45:00.000Z",
+  "created_by": "pjmp020564",
+  "updated_by": "pjmp020564",
+  "source_hub": null
+}
