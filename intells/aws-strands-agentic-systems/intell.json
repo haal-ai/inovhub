@@ -1,0 +1,28 @@
+{
+  "id": "743f4f28-df4b-447d-baef-46089c1a0346",
+  "slug": "aws-strands-agentic-systems",
+  "title": "AWS Strands SDK — Agentic Systems",
+  "type": "technology",
+  "ring": "adopt",
+  "in_radar": true,
+  "expected_impact": "high",
+  "status": "being-assessed",
+  "abstract": "Evaluation of the AWS Strands Agents SDK as the foundation for building use-case-driven agentic systems targeting bulk operations, non-coder workflows, and multi-repository automation.",
+  "why_we_care": "Our developer and builder population needs scalable automation for bulk, cross-repo operations and non-coder-friendly workflows. Traditional tooling doesn't address the volume and diversity of use cases — from redocumentation to multi-repo builds to daily work reviews. We need an agentic SDK that lets us build use-case-driven systems fast, while remaining model-agnostic and highly configurable.",
+  "summary": "We are building a portfolio of agentic systems on top of the AWS Strands Agents SDK — a model-driven, provider-agnostic Python framework (5.3k+ stars, Apache 2.0). Our use cases span redocumentation, multi-repo solution builds, GitPulse (daily/weekly/monthly work review), repository reviews, and more. The systems are designed to be highly configurable and target non-coder-driven scenarios and bulk operations across many large repositories. The POC is demo-ready and we are now assessing whether this SDK is the best fit for our company's developer population.",
+  "description": "The AWS Strands Agents SDK takes a model-driven approach to building AI agents, letting the model reason about planning and orchestration. It supports Amazon Bedrock, OpenAI, Anthropic, Ollama, and many other providers — making it easy to switch models without rewriting agent logic.\n\nOur evaluation focuses on **use-case-driven agentic systems** rather than generic chatbots. Each system is purpose-built for a specific workflow:\n\n- **Redocumentation agents** — automated generation and refresh of technical documentation from code\n- **Multi-repo solution builders** — agents that operate across multiple repositories to scaffold, update, or migrate solutions at scale\n- **GitPulse** — review and summarize work done over the previous day, week, or month across teams and repos\n- **Repository review agents** — automated code review and quality assessment\n- **Additional use cases** under exploration for bulk and repetitive engineering tasks\n\nKey evaluation criteria include:\n\n- **Non-coder accessibility** — can builders with limited coding experience create and configure agents?\n- **Bulk operations** — does the SDK handle many repositories and large codebases efficiently?\n- **Configurability** — we have made the systems highly configurable to meet diverse user needs\n- **SDK/framework fit** — is Strands the right choice compared to alternatives for our developer population?\n\nThe POC is demo-ready with working prototypes for the core use cases.",
+  "linked_issues": [],
+  "linked_discussions": [],
+  "linked_files": [],
+  "artifacts": [],
+  "linked_urls": [
+    "https://github.com/strands-agents/sdk-python",
+    "https://strandsagents.com/"
+  ],
+  "tags": ["sdk", "agentic-system", "genai", "dev", "aws-strands", "multi-agent", "automation", "bulk-operations"],
+  "created_at": "2026-03-14T06:37:24.501Z",
+  "updated_at": "2026-03-14T06:37:24.501Z",
+  "created_by": "pjmp020564",
+  "updated_by": "pjmp020564",
+  "source_hub": null
+}

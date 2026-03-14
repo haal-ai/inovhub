@@ -94,5 +94,30 @@
     "created_by": "ppaccaud",
     "updated_by": "ppaccaud",
     "source_hub": null
+  },
+  {
+    "slug": "aws-strands-agentic-systems",
+    "title": "AWS Strands SDK — Agentic Systems",
+    "type": "technology",
+    "ring": "adopt",
+    "in_radar": true,
+    "status": "being-assessed",
+    "expected_impact": "high",
+    "abstract": "Evaluation of the AWS Strands Agents SDK as the foundation for building use-case-driven agentic systems targeting bulk operations, non-coder workflows, and multi-repository automation.",
+    "tags": [
+      "sdk",
+      "agentic-system",
+      "genai",
+      "dev",
+      "aws-strands",
+      "multi-agent",
+      "automation",
+      "bulk-operations"
+    ],
+    "created_at": "2026-03-14T06:37:24.501Z",
+    "updated_at": "2026-03-14T06:37:24.501Z",
+    "created_by": "pjmp020564",
+    "updated_by": "pjmp020564",
+    "source_hub": null
   }
 ]
