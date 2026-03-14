@@ -1,0 +1,29 @@
+{
+  "id": "c3d4e5f6-a7b8-9012-cdef-345678901234",
+  "slug": "kiro-evaluation",
+  "title": "Kiro Evaluation",
+  "type": "tools",
+  "ring": "assess",
+  "in_radar": true,
+  "expected_impact": "high",
+  "status": "being-assessed",
+  "abstract": "Evaluation of Kiro (IDE and CLI) with focus on spec-driven development, assessing its value for developers, product analysts, and testers compared to other GenAI coding solutions.",
+  "why_we_care": "AI coding assistants are becoming standard engineering tools, but most focus solely on code generation for developers. Kiro's spec-driven development approach could transform how product analysts, testers, and developers collaborate \u2014 turning natural language requirements into structured specifications, acceptance criteria, and implementation plans. If this works at scale, it shifts AI assistance from code-level productivity to full development lifecycle impact.",
+  "summary": "The company is evaluating Kiro \u2014 an AI-powered IDE and CLI from AWS \u2014 to determine whether its spec-driven development approach offers advantages over other GenAI coding solutions. Unlike tools that focus primarily on code generation, Kiro transforms natural language prompts into structured requirements (EARS notation), architectural designs, and sequenced implementation plans. The evaluation specifically targets not only developers but also product/design analysts and testers, as the spec-driven workflow directly impacts their day-to-day work.",
+  "description": "**What is Kiro?**\n\nKiro is an AI development environment from AWS that emphasises spec-driven development. It is available as both an IDE (VS Code compatible) and a CLI. Its key differentiator is the ability to turn natural language prompts into structured requirements with acceptance criteria, then generate architectural designs and discrete implementation tasks.\n\n**Why Spec-Driven Development Matters**\n- Transforms vague prompts into explicit requirements in EARS notation\n- Generates architectural designs backed by best practices\n- Creates sequenced implementation plans with discrete tasks mapped to requirements\n- Agent hooks automate background tasks (tests, docs) on file save\n- This structured approach benefits not just coders but anyone involved in the development lifecycle\n\n**Evaluation Scope**\n- IDE capabilities: spec-driven development, multimodal chat, steering files, agent hooks\n- CLI capabilities: terminal-based agents for building features, tracing bugs, and automation\n- Target participants: developers, product/design analysts (PDAs), and testers\n- Focus question: does Kiro's structured approach deliver more value than pure code-generation tools?\n\n**Key Capabilities Under Review**\n- Natural prompt to structured requirements and acceptance criteria\n- Architectural design generation from requirements\n- Implementation task planning with dependency sequencing\n- Autopilot mode for autonomous task execution\n- Agent hooks for automated background workflows\n- CLI for terminal-based agentic development\n\n**Innovation Angle**\n\nKiro represents a shift in thinking about AI-assisted development \u2014 from \"generate code faster\" to \"structure the entire development process\". If the evaluation demonstrates value, it could reshape how cross-functional teams (developers, analysts, testers) collaborate on feature delivery.",
+  "linked_issues": [],
+  "linked_discussions": [],
+  "linked_files": [],
+  "artifacts": [],
+  "linked_urls": [
+    "https://kiro.dev/",
+    "https://kiro.dev/cli/",
+    "https://kiro.dev/docs/specs/"
+  ],
+  "tags": ["genai", "kiro", "aws", "sdd", "spec-driven-development", "developer-tooling", "evaluation", "innovation", "coding-assistant"],
+  "created_at": "2026-03-14T06:10:00.000Z",
+  "updated_at": "2026-03-14T06:10:00.000Z",
+  "created_by": "ppaccaud",
+  "updated_by": "ppaccaud",
+  "source_hub": null
+}

@@ -43,5 +43,31 @@
     "created_by": "ppaccaud",
     "updated_by": "ppaccaud",
     "source_hub": null
+  },
+  {
+    "slug": "kiro-evaluation",
+    "title": "Kiro Evaluation",
+    "type": "tools",
+    "ring": "assess",
+    "in_radar": true,
+    "status": "being-assessed",
+    "expected_impact": "high",
+    "abstract": "Evaluation of Kiro (IDE and CLI) with focus on spec-driven development, assessing its value for developers, product analysts, and testers compared to other GenAI coding solutions.",
+    "tags": [
+      "genai",
+      "kiro",
+      "aws",
+      "sdd",
+      "spec-driven-development",
+      "developer-tooling",
+      "evaluation",
+      "innovation",
+      "coding-assistant"
+    ],
+    "created_at": "2026-03-14T06:10:00.000Z",
+    "updated_at": "2026-03-14T06:10:00.000Z",
+    "created_by": "ppaccaud",
+    "updated_by": "ppaccaud",
+    "source_hub": null
   }
 ]
