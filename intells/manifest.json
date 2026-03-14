@@ -142,5 +142,25 @@
     "created_by": "pjmp020564",
     "updated_by": "pjmp020564",
     "source_hub": null
+  },
+  {
+    "slug": "windsurf-cascade-ide-solution",
+    "title": "Windsurf Cascade IDE Solution",
+    "type": "other",
+    "ring": "trial",
+    "in_radar": true,
+    "status": "human-reviewed",
+    "expected_impact": "high",
+    "abstract": "",
+    "tags": [
+      "ide",
+      "agent",
+      "genai"
+    ],
+    "created_at": "2026-03-14T11:52:47.839Z",
+    "updated_at": "2026-03-14T11:52:47.839Z",
+    "created_by": "pjmp020564",
+    "updated_by": "pjmp020564",
+    "source_hub": null
   }
 ]
