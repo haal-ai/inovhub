@@ -3,12 +3,12 @@
   "slug": "claude-code-evaluation",
   "title": "Claude Code Evaluation",
   "type": "tools",
-  "ring": "assess",
+  "ring": "trial",
   "in_radar": true,
   "expected_impact": "high",
   "status": "being-assessed",
   "abstract": "A closed evaluation of Claude Code via AWS Bedrock involving ~50 engineers to assess its value compared to other GenAI coding solutions.",
-  "why_we_care": "Engineering teams need effective GenAI-powered coding assistants, but the market offers many competing solutions with varying strengths. Without a structured evaluation involving real developers on real codebases, the company risks investing in a tool that doesn't deliver the expected productivity gains \u2014 or missing one that does.",
+  "why_we_care": "Engineering teams need effective GenAI-powered coding assistants, but the market offers many competing solutions with varying strengths. Without a structured evaluation involving real developers on real codebases, the company risks investing in a tool that doesn't deliver the expected productivity gains — or missing one that does.",
   "summary": "The company is conducting a controlled evaluation of Claude Code, deployed through AWS Bedrock, with approximately 50 participants across engineering teams. The goal is to understand how Claude Code compares to other GenAI-for-engineering solutions currently available. This is the first evaluation phase, running until 27 March 2026, after which a go/no-go decision will be made on whether to proceed further.",
   "description": "**Context**\n\nAs GenAI-powered coding assistants mature, selecting the right tool for the company becomes a strategic decision. Claude Code, accessed via AWS Bedrock, is being evaluated as a potential standard tool for engineering teams.\n\n**Evaluation Setup**\n- Closed evaluation with approximately 50 engineers\n- Deployed via AWS Bedrock (enterprise-grade, data stays within company infrastructure)\n- Participants work on real codebases and real tasks\n- Comparison against other GenAI coding solutions already in use or under consideration\n\n**Current Status**\n\nThis is the first evaluation phase, with a deadline of 27 March 2026. Internal repositories track the evaluation status and contribution feedback from participants. At the end of this phase, the team will decide whether to move forward with a broader rollout or pivot to an alternative solution.\n\n**Expected Outcome**\n\nThe evaluation aims to determine whether Claude Code via Bedrock offers a meaningful improvement over existing solutions. If results are positive, the impact on engineering productivity could be significant across the company.",
   "linked_issues": [],
@@ -19,10 +19,17 @@
     "https://docs.anthropic.com/en/docs/claude-code/overview",
     "https://aws.amazon.com/bedrock/"
   ],
-  "tags": ["genai", "claude", "aws-bedrock", "developer-tooling", "evaluation", "coding-assistant"],
+  "tags": [
+    "genai",
+    "claude",
+    "aws-bedrock",
+    "developer-tooling",
+    "evaluation",
+    "coding-assistant"
+  ],
   "created_at": "2026-03-14T06:03:43.430Z",
-  "updated_at": "2026-03-14T06:03:43.430Z",
+  "updated_at": "2026-03-14T05:16:39.101Z",
   "created_by": "ppaccaud",
-  "updated_by": "ppaccaud",
+  "updated_by": "pjmp020564",
   "source_hub": null
 }
