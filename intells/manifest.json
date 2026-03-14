@@ -20,5 +20,28 @@
     "created_by": "ppaccaud",
     "updated_by": "pjmp020564",
     "source_hub": null
+  },
+  {
+    "slug": "claude-code-evaluation",
+    "title": "Claude Code Evaluation",
+    "type": "tools",
+    "ring": "assess",
+    "in_radar": true,
+    "status": "being-assessed",
+    "expected_impact": "high",
+    "abstract": "A closed evaluation of Claude Code via AWS Bedrock involving ~50 engineers to assess its value compared to other GenAI coding solutions.",
+    "tags": [
+      "genai",
+      "claude",
+      "aws-bedrock",
+      "developer-tooling",
+      "evaluation",
+      "coding-assistant"
+    ],
+    "created_at": "2026-03-14T06:03:43.430Z",
+    "updated_at": "2026-03-14T06:03:43.430Z",
+    "created_by": "ppaccaud",
+    "updated_by": "ppaccaud",
+    "source_hub": null
   }
 ]
