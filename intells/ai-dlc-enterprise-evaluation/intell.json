@@ -7,17 +7,30 @@
   "in_radar": true,
   "expected_impact": "unknown",
   "status": "being-assessed",
-  "abstract": "A structured evaluation framework applying AI Development Lifecycle (AI-DLC) principles to assess enterprise readiness of AI coding tools — covering governance, security, compliance, cost management, and organizational change management across the tool evaluation pipeline.",
-  "why_we_care": "Selecting AI coding tools based only on technical benchmarks ignores the enterprise realities of governance, security, and organizational adoption. This evaluation framework ensures our tool recommendations are defensible to leadership and account for total cost of ownership, compliance requirements, and the human side of tooling changes — especially critical as we prepare to recommend tools for broader team adoption.",
-  "summary": "A structured framework for evaluating AI coding tools through enterprise lenses — governance, security, compliance, cost, and change management — using AI-DLC principles rather than just technical capability benchmarks.",
-  "description": "## Overview\\n\\nThis intell tracks our approach to evaluating AI coding tools through an enterprise lens using AI-DLC (AI Development Lifecycle) principles. Rather than evaluating tools purely on technical capability, this framework ensures we also assess:\\n\\n## Evaluation Dimensions\\n\\n- **Governance**: How does the tool fit into existing IT governance frameworks?\\n- **Security & compliance**: Data residency, SOC 2, code IP protection\\n- **Cost management**: Per-seat pricing vs. usage-based, TCO analysis\\n- **Change management**: Training needs, adoption curves, workflow disruption\\n- **Integration**: How does it fit with existing CI/CD, code review, and deployment pipelines?\\n- **Vendor risk**: Company stability, lock-in potential, exit strategy\\n\\n## Application\\n\\nApply this framework to each coding tool intell (Copilot, Claude Code, Devin, Augment, Codex, etc.) to produce comparable enterprise-readiness scores.",
+  "abstract": "Evaluating AWS's AI-DLC (AI-Driven Development Life Cycle) methodology for enterprise adoption — assessing whether replacing traditional SDLC rituals (sprints, epics) with AI-centric constructs (bolts, units of work, Mob Elaboration, Mob Construction) delivers measurable development efficiency gains in our context.",
+  "why_we_care": "AWS argues that bolting AI copilots onto existing SDLC processes produces suboptimal results — the transformative gains require restructuring the entire lifecycle around AI. If they're right, our current approach of adding Copilot/Claude Code to existing workflows may be leaving significant productivity on the table. We need to evaluate whether AI-DLC's rituals (Mob Elaboration, Mob Construction, bolts) genuinely outperform our current AI-assisted workflow, or whether the methodology is too disruptive for enterprise teams with governance constraints.",
+  "summary": "Assessing AWS's AI-DLC methodology — which replaces sprints with 'bolts' and traditional SDLC rituals with AI-centric Mob Elaboration and Mob Construction — to determine if it delivers real efficiency gains in our enterprise context.",
+  "description": "## Overview\n\nAI-DLC is an AI-centric methodology created by AWS that reimagines the entire software development lifecycle. Instead of bolting AI onto existing SDLC processes, AI-DLC positions AI as a central collaborator across three phases:\n\n1. **Inception** — Requirements via 'Mob Elaboration' (human + AI collaborative specification)\n2. **Construction** — Architecture and code via 'Mob Construction' (AI-driven implementation with human oversight)\n3. **Operations** — Deployment with continuous AI-assisted oversight\n\n## Key Concepts\n\n- **Bolts** replace sprints (hours/days instead of weeks)\n- **Units of work** replace epics\n- **Human-in-the-loop** oversight at every step\n- Supports multiple coding agents: Kiro, Amazon Q Developer, Cursor, Claude Code, Copilot\n- Open-source (MIT-0) with workflows on GitHub (awslabs/aidlc-workflows, 700+ stars)\n\n## Enterprise Evaluation Focus\n\nThis intell specifically tracks our assessment of AI-DLC's applicability to our enterprise context:\n- Does Mob Elaboration outperform our current AI-assisted requirements process?\n- Are 'bolts' realistic for enterprise teams with governance overhead?\n- How does AI-DLC integrate with our existing CI/CD and code review pipelines?\n- What training investment is needed to adopt AI-DLC rituals?",
   "related_intells": [],
   "linked_issues": [],
   "linked_discussions": [],
   "linked_files": [],
   "artifacts": [],
   "linked_urls": [],
-  "key_links": [],
+  "key_links": [
+    {
+      "label": "AWS DevOps Blog — AI-Driven Development Life Cycle",
+      "url": "https://aws.amazon.com/blogs/devops/ai-driven-development-life-cycle/"
+    },
+    {
+      "label": "GitHub — awslabs/aidlc-workflows",
+      "url": "https://github.com/awslabs/aidlc-workflows"
+    },
+    {
+      "label": "AI-DLC Method Definition Paper",
+      "url": "https://prod.d13rzhkk8cj2z0.amplifyapp.com/"
+    }
+  ],
   "tags": [
     "genai",
     "ai-dlc",
@@ -31,7 +44,7 @@
     "efficiency"
   ],
   "created_at": "2026-03-15T21:54:19.893Z",
-  "updated_at": "2026-03-15T22:04:14.709Z",
+  "updated_at": "2026-03-15T22:13:46.096Z",
   "created_by": null,
   "updated_by": "copilot"
 }

@@ -10,14 +10,23 @@
   "abstract": "OpenAI Codex is a cloud-based AI coding agent that runs autonomously in a sandboxed environment, executing multi-step coding tasks (bug fixes, refactors, feature implementation) from natural language instructions via the ChatGPT interface.",
   "why_we_care": "Codex represents OpenAI's entry into autonomous coding agents — a direct competitor to the tools we're evaluating (Claude Code, Devin). Understanding its capabilities and limitations helps us make informed decisions about which agent platform to standardize on for our team's workflows. Its cloud-execution model also has implications for enterprise security and data residency.",
   "summary": "OpenAI Codex is a cloud-based autonomous coding agent that executes multi-step coding tasks from natural language descriptions, running in a sandboxed environment and producing pull-request-ready diffs.",
-  "description": "## Overview\\n\\nOpenAI Codex is a coding agent (not to be confused with the earlier Codex model) that runs tasks in a sandboxed cloud environment. Users describe what they want in natural language, and Codex autonomously reads code, makes changes, runs tests, and produces a pull-request-ready diff.\\n\\n## Key Differentiators\\n\\n- **Cloud execution**: Runs in isolated sandboxes, not local IDE\\n- **Autonomous multi-step**: Can chain file reads, edits, and test runs\\n- **ChatGPT integration**: Accessible from the ChatGPT interface\\n- **PR-ready output**: Generates diffs that can be directly applied\\n\\n## Competitive Position\\n\\nCompetes with Claude Code, Devin, and Augment Code in the autonomous coding agent space. Leverages OpenAI's o3/o4 models.",
+  "description": "## Overview\n\nOpenAI Codex is a coding agent (not to be confused with the earlier Codex model) that runs tasks in a sandboxed cloud environment. Users describe what they want in natural language, and Codex autonomously reads code, makes changes, runs tests, and produces a pull-request-ready diff.\n\n## Key Differentiators\n\n- **Cloud execution**: Runs in isolated sandboxes, not local IDE\n- **Autonomous multi-step**: Can chain file reads, edits, and test runs\n- **ChatGPT integration**: Accessible from the ChatGPT interface\n- **PR-ready output**: Generates diffs that can be directly applied\n\n## Competitive Position\n\nCompetes with Claude Code, Devin, and Augment Code in the autonomous coding agent space. Leverages OpenAI's o3/o4 models.",
   "related_intells": [],
   "linked_issues": [],
   "linked_discussions": [],
   "linked_files": [],
   "artifacts": [],
   "linked_urls": [],
-  "key_links": [],
+  "key_links": [
+    {
+      "label": "OpenAI Codex — Official Page",
+      "url": "https://openai.com/index/codex/"
+    },
+    {
+      "label": "OpenAI Codex CLI (GitHub)",
+      "url": "https://github.com/openai/codex"
+    }
+  ],
   "tags": [
     "genai",
     "coding-agent",
@@ -29,7 +38,7 @@
     "terminal"
   ],
   "created_at": "2026-03-15T21:48:24.357Z",
-  "updated_at": "2026-03-15T22:03:24.303Z",
+  "updated_at": "2026-03-15T22:13:05.832Z",
   "created_by": null,
   "updated_by": "copilot"
 }

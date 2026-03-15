@@ -10,14 +10,19 @@
   "abstract": "Augment Code is an AI-powered coding assistant that differentiates through deep codebase understanding — indexing entire repositories to provide context-aware completions, refactoring, and code generation that respects project-wide patterns and conventions.",
   "why_we_care": "Augment's approach of indexing the full codebase addresses one of the biggest limitations of current AI coding tools — lack of project-wide context. If it delivers on this promise, it could significantly reduce the hallucination and inconsistency issues we experience with general-purpose assistants. Worth comparing against GitHub Copilot's workspace indexing capabilities.",
   "summary": "Augment Code is an AI coding assistant focused on deep codebase understanding — it indexes entire repositories to deliver context-aware completions, refactoring, and generation that respect project conventions.",
-  "description": "## Overview\\n\\nAugment Code is a VS Code extension and IDE integration that provides AI-assisted coding with a focus on deep codebase awareness. Unlike general-purpose LLM integrations, Augment indexes the entire repository to understand project structure, coding patterns, and dependencies.\\n\\n## Key Differentiators\\n\\n- **Deep codebase indexing**: Understands entire repo structure, not just open files\\n- **Convention awareness**: Learns and applies project-specific coding patterns\\n- **Cross-file refactoring**: Can make coherent changes across multiple files\\n- **Enterprise focus**: SOC 2 compliant, supports private deployment\\n- **VS Code + JetBrains**: Multi-IDE support\\n\\n## Competitive Position\\n\\nPositioned between GitHub Copilot (broad but shallow context) and autonomous agents (Devin/Claude Code). Emphasizes accuracy over autonomy.",
+  "description": "## Overview\n\nAugment Code is a VS Code extension and IDE integration that provides AI-assisted coding with a focus on deep codebase awareness. Unlike general-purpose LLM integrations, Augment indexes the entire repository to understand project structure, coding patterns, and dependencies.\n\n## Key Differentiators\n\n- **Deep codebase indexing**: Understands entire repo structure, not just open files\n- **Convention awareness**: Learns and applies project-specific coding patterns\n- **Cross-file refactoring**: Can make coherent changes across multiple files\n- **Enterprise focus**: SOC 2 compliant, supports private deployment\n- **VS Code + JetBrains**: Multi-IDE support\n\n## Competitive Position\n\nPositioned between GitHub Copilot (broad but shallow context) and autonomous agents (Devin/Claude Code). Emphasizes accuracy over autonomy.",
   "related_intells": [],
   "linked_issues": [],
   "linked_discussions": [],
   "linked_files": [],
   "artifacts": [],
   "linked_urls": [],
-  "key_links": [],
+  "key_links": [
+    {
+      "label": "Augment Code — Official Site",
+      "url": "https://www.augmentcode.com/"
+    }
+  ],
   "tags": [
     "genai",
     "coding-assistant",
@@ -28,7 +33,7 @@
     "ide"
   ],
   "created_at": "2026-03-15T21:48:50.927Z",
-  "updated_at": "2026-03-15T22:03:49.609Z",
+  "updated_at": "2026-03-15T22:13:24.100Z",
   "created_by": null,
   "updated_by": "copilot"
 }
