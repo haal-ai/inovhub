@@ -7,10 +7,10 @@
   "in_radar": true,
   "expected_impact": "unknown",
   "status": "being-assessed",
-  "abstract": "",
-  "why_we_care": "",
-  "summary": "",
-  "description": "",
+  "abstract": "An initiative exploring how Business Analysts can use VS Code with AI-assisted tooling to create, manage, and validate specifications — bringing structured requirement documentation closer to the development workflow and enabling spec-driven development practices.",
+  "why_we_care": "The specification-to-code gap is one of the biggest sources of wasted effort in our projects. If BAs can author specs directly in VS Code with AI assistance, we get version-controlled requirements, automated validation, and tighter feedback loops between analysis and implementation. This could fundamentally change how we handle the requirements phase and reduce the rework caused by ambiguous or outdated specifications.",
+  "summary": "Exploring how Business Analysts can adopt VS Code with AI assistants to write version-controlled, structured specifications — bridging the gap between requirements and code through spec-driven development practices.",
+  "description": "## Overview\\n\\nThis intell tracks the practice of Business Analysts (BAs) using VS Code as their primary specification authoring environment, leveraging AI assistants (Copilot, custom agents) to create structured, version-controlled specifications.\\n\\n## Benefits\\n\\n- **Version control**: Specs live in git alongside code, enabling full history and diff tracking\\n- **AI assistance**: Copilot and custom agents help write, refine, and validate specifications\\n- **Markdown/structured formats**: Specs in markdown, Gherkin, or YAML rather than Word/Confluence\\n- **Developer alignment**: BAs work in the same tools as developers, reducing translation gaps\\n- **Automated validation**: Specs can be linted, checked for completeness, and linked to tests\\n\\n## Challenges\\n\\n- BA onboarding to VS Code (unfamiliar IDE)\\n- Template and convention standardization\\n- Integration with existing BA tools (Jira, Confluence)\\n\\n## Related\\n\\nConnects to spec-driven development (Kiro) and AI-DLC enterprise evaluation.",
   "related_intells": [],
   "linked_issues": [],
   "linked_discussions": [],
@@ -31,7 +31,7 @@
     "markdown"
   ],
   "created_at": "2026-03-15T21:54:36.520Z",
-  "updated_at": "2026-03-15T21:54:36.520Z",
+  "updated_at": "2026-03-15T22:04:28.450Z",
   "created_by": null,
-  "updated_by": null
+  "updated_by": "copilot"
 }

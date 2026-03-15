@@ -7,10 +7,10 @@
   "in_radar": true,
   "expected_impact": "unknown",
   "status": "potential",
-  "abstract": "",
-  "why_we_care": "",
-  "summary": "",
-  "description": "",
+  "abstract": "Mistral Vibe is a coding agent from Mistral AI that combines a conversational interface with code generation and execution capabilities, emphasizing a natural, flow-state coding experience powered by Mistral's open-weight language models.",
+  "why_we_care": "As a European company, data sovereignty and GDPR compliance are critical concerns. Mistral Vibe offers an alternative to US-based AI coding tools with European data residency guarantees. Additionally, Mistral's open-weight model approach gives us more flexibility for self-hosting and customization compared to closed-source alternatives.",
+  "summary": "Mistral Vibe is Mistral AI's coding agent combining conversational AI with code generation, powered by open-weight models (Codestral) — offering a European, GDPR-compliant alternative to US-based AI coding tools.",
+  "description": "## Overview\\n\\nMistral Vibe (codename for their coding agent product) is Mistral AI's entry into the AI coding assistant space. It emphasizes natural conversational flow combined with direct code generation and execution, powered by Mistral's latest models (Codestral, Mistral Large).\\n\\n## Key Features\\n\\n- **Conversational coding**: Natural language interaction with code output\\n- **Open-weight models**: Backed by Mistral's open-weight model family\\n- **Multi-language support**: Strong in Python, JavaScript, Rust, Go\\n- **European AI**: GDPR-compliant, EU-based infrastructure\\n- **API access**: Can be self-hosted or used via Mistral's API\\n\\n## Competitive Position\\n\\nLeverages Mistral's position as the leading European AI company. Appeals to organizations with data sovereignty requirements. Codestral model specifically optimized for code tasks.",
   "related_intells": [],
   "linked_issues": [],
   "linked_discussions": [],
@@ -28,7 +28,7 @@
     "browser-based"
   ],
   "created_at": "2026-03-15T21:49:04.640Z",
-  "updated_at": "2026-03-15T21:49:04.640Z",
+  "updated_at": "2026-03-15T22:04:01.325Z",
   "created_by": null,
-  "updated_by": null
+  "updated_by": "copilot"
 }

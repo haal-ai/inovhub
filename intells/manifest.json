@@ -216,7 +216,7 @@
     "in_radar": true,
     "status": "potential",
     "expected_impact": "unknown",
-    "abstract": "",
+    "abstract": "OpenAI Codex is a cloud-based AI coding agent that runs autonomously in a sandboxed environment, executing multi-step coding tasks (bug fixes, refactors, feature implementation) from natural language instructions via the ChatGPT interface.",
     "tags": [
       "genai",
       "coding-agent",
@@ -228,9 +228,9 @@
       "terminal"
     ],
     "created_at": "2026-03-15T21:48:24.357Z",
-    "updated_at": "2026-03-15T21:48:24.357Z",
+    "updated_at": "2026-03-15T22:03:24.303Z",
     "created_by": null,
-    "updated_by": null,
+    "updated_by": "copilot",
     "source_hub": null
   },
   {
@@ -241,7 +241,7 @@
     "in_radar": true,
     "status": "potential",
     "expected_impact": "unknown",
-    "abstract": "",
+    "abstract": "Devin by Cognition is a fully autonomous AI software engineer that can plan, code, debug, and deploy entire features end-to-end from task descriptions, operating as a virtual team member with its own development environment.",
     "tags": [
       "genai",
       "coding-agent",
@@ -252,9 +252,9 @@
       "enterprise"
     ],
     "created_at": "2026-03-15T21:48:38.105Z",
-    "updated_at": "2026-03-15T21:48:38.105Z",
+    "updated_at": "2026-03-15T22:03:37.820Z",
     "created_by": null,
-    "updated_by": null,
+    "updated_by": "copilot",
     "source_hub": null
   },
   {
@@ -265,7 +265,7 @@
     "in_radar": true,
     "status": "potential",
     "expected_impact": "unknown",
-    "abstract": "",
+    "abstract": "Augment Code is an AI-powered coding assistant that differentiates through deep codebase understanding — indexing entire repositories to provide context-aware completions, refactoring, and code generation that respects project-wide patterns and conventions.",
     "tags": [
       "genai",
       "coding-assistant",
@@ -276,9 +276,9 @@
       "ide"
     ],
     "created_at": "2026-03-15T21:48:50.927Z",
-    "updated_at": "2026-03-15T21:48:50.927Z",
+    "updated_at": "2026-03-15T22:03:49.609Z",
     "created_by": null,
-    "updated_by": null,
+    "updated_by": "copilot",
     "source_hub": null
   },
   {
@@ -289,7 +289,7 @@
     "in_radar": true,
     "status": "potential",
     "expected_impact": "unknown",
-    "abstract": "",
+    "abstract": "Mistral Vibe is a coding agent from Mistral AI that combines a conversational interface with code generation and execution capabilities, emphasizing a natural, flow-state coding experience powered by Mistral's open-weight language models.",
     "tags": [
       "genai",
       "coding-agent",
@@ -300,9 +300,9 @@
       "browser-based"
     ],
     "created_at": "2026-03-15T21:49:04.640Z",
-    "updated_at": "2026-03-15T21:49:04.640Z",
+    "updated_at": "2026-03-15T22:04:01.325Z",
     "created_by": null,
-    "updated_by": null,
+    "updated_by": "copilot",
     "source_hub": null
   },
   {
@@ -313,7 +313,7 @@
     "in_radar": true,
     "status": "being-assessed",
     "expected_impact": "unknown",
-    "abstract": "",
+    "abstract": "A structured evaluation framework applying AI Development Lifecycle (AI-DLC) principles to assess enterprise readiness of AI coding tools — covering governance, security, compliance, cost management, and organizational change management across the tool evaluation pipeline.",
     "tags": [
       "genai",
       "ai-dlc",
@@ -327,9 +327,9 @@
       "efficiency"
     ],
     "created_at": "2026-03-15T21:54:19.893Z",
-    "updated_at": "2026-03-15T21:54:19.893Z",
+    "updated_at": "2026-03-15T22:04:14.709Z",
     "created_by": null,
-    "updated_by": null,
+    "updated_by": "copilot",
     "source_hub": null
   },
   {
@@ -340,7 +340,7 @@
     "in_radar": true,
     "status": "being-assessed",
     "expected_impact": "unknown",
-    "abstract": "",
+    "abstract": "An initiative exploring how Business Analysts can use VS Code with AI-assisted tooling to create, manage, and validate specifications — bringing structured requirement documentation closer to the development workflow and enabling spec-driven development practices.",
     "tags": [
       "genai",
       "business-analyst",
@@ -354,9 +354,9 @@
       "markdown"
     ],
     "created_at": "2026-03-15T21:54:36.520Z",
-    "updated_at": "2026-03-15T21:54:36.520Z",
+    "updated_at": "2026-03-15T22:04:28.450Z",
     "created_by": null,
-    "updated_by": null,
+    "updated_by": "copilot",
     "source_hub": null
   },
   {
@@ -367,7 +367,7 @@
     "in_radar": true,
     "status": "being-assessed",
     "expected_impact": "unknown",
-    "abstract": "",
+    "abstract": "An evaluation of rewriting performance-critical microservices from Java/Python to Rust, targeting 60-80% reduction in cloud compute costs through Rust's zero-cost abstractions, minimal memory footprint, and elimination of garbage collection overhead.",
     "tags": [
       "rust",
       "microservices",
@@ -382,9 +382,9 @@
       "finops"
     ],
     "created_at": "2026-03-15T21:54:52.939Z",
-    "updated_at": "2026-03-15T21:54:52.939Z",
+    "updated_at": "2026-03-15T22:04:43.155Z",
     "created_by": null,
-    "updated_by": null,
+    "updated_by": "copilot",
     "source_hub": null
   }
 ]

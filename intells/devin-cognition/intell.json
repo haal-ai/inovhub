@@ -7,10 +7,10 @@
   "in_radar": true,
   "expected_impact": "unknown",
   "status": "potential",
-  "abstract": "",
-  "why_we_care": "",
-  "summary": "",
-  "description": "",
+  "abstract": "Devin by Cognition is a fully autonomous AI software engineer that can plan, code, debug, and deploy entire features end-to-end from task descriptions, operating as a virtual team member with its own development environment.",
+  "why_we_care": "Devin represents the highest-autonomy end of the AI coding agent spectrum. Evaluating it helps us understand the trade-offs between developer control (Copilot/Claude Code) and full delegation (Devin). Its Slack-as-interface model and ability to handle mundane tasks end-to-end could free senior developers for architectural work, but raises questions about code quality oversight and enterprise governance.",
+  "summary": "Devin by Cognition is a fully autonomous AI software engineer that plans, codes, debugs, and deploys features end-to-end — positioning itself as a virtual junior developer team member rather than a code completion tool.",
+  "description": "## Overview\\n\\nDevin is an autonomous AI software engineer developed by Cognition. Unlike copilot-style tools that assist developers, Devin operates independently — it can be assigned tasks via Slack or a web interface, then autonomously plans an approach, writes code, runs tests, debugs failures, and submits PRs.\\n\\n## Key Capabilities\\n\\n- **Full autonomy**: Plans and executes multi-step engineering tasks end-to-end\\n- **Persistent environment**: Has its own shell, editor, and browser\\n- **Slack integration**: Acts as a virtual team member you can message\\n- **Learning**: Adapts to project conventions and codebase patterns\\n- **Deployment**: Can deploy to staging/production environments\\n\\n## Pricing & Access\\n\\nCommercial SaaS product with per-seat pricing. Enterprise tier available with SOC 2 compliance.\\n\\n## Competitive Position\\n\\nPositioned as the most autonomous coding agent. Higher autonomy than Claude Code or Copilot but with less developer control over the process.",
   "related_intells": [],
   "linked_issues": [],
   "linked_discussions": [],
@@ -28,7 +28,7 @@
     "enterprise"
   ],
   "created_at": "2026-03-15T21:48:38.105Z",
-  "updated_at": "2026-03-15T21:48:38.105Z",
+  "updated_at": "2026-03-15T22:03:37.820Z",
   "created_by": null,
-  "updated_by": null
+  "updated_by": "copilot"
 }
