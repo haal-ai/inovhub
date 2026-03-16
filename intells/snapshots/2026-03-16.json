@@ -1,0 +1,13 @@
+{
+  "date": "2026-03-16",
+  "total": 0,
+  "by_phase": {},
+  "by_status": {
+    "active": 0,
+    "delivered": 0,
+    "parked": 0
+  },
+  "by_impact": {},
+  "contributors": 0,
+  "intells": []
+}
