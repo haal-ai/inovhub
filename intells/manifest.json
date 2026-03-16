@@ -362,11 +362,11 @@
   {
     "slug": "rust-microservice-rewrite",
     "title": "Rust Microservice Rewrite — Reducing Cloud Costs via Language Migration",
-    "type": "technology",
-    "ring": "assess",
+    "type": "process",
+    "ring": "hold",
     "in_radar": true,
-    "status": "being-assessed",
-    "expected_impact": "unknown",
+    "status": "to-be-assessed",
+    "expected_impact": "critical",
     "abstract": "An evaluation of rewriting performance-critical microservices from Java/Python to Rust, targeting 60-80% reduction in cloud compute costs through Rust's zero-cost abstractions, minimal memory footprint, and elimination of garbage collection overhead.",
     "tags": [
       "rust",
@@ -382,9 +382,9 @@
       "finops"
     ],
     "created_at": "2026-03-15T21:54:52.939Z",
-    "updated_at": "2026-03-15T22:14:06.893Z",
+    "updated_at": "2026-03-16T00:22:34.899Z",
     "created_by": null,
-    "updated_by": "copilot",
+    "updated_by": "pjmp020564",
     "source_hub": null
   }
 ]

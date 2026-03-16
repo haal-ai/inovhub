@@ -2,11 +2,11 @@
   "id": "81e5b004-261b-4a4e-a13b-f3350e6c615d",
   "slug": "rust-microservice-rewrite",
   "title": "Rust Microservice Rewrite — Reducing Cloud Costs via Language Migration",
-  "type": "technology",
-  "ring": "assess",
+  "type": "process",
+  "ring": "hold",
   "in_radar": true,
-  "expected_impact": "unknown",
-  "status": "being-assessed",
+  "expected_impact": "critical",
+  "status": "to-be-assessed",
   "abstract": "An evaluation of rewriting performance-critical microservices from Java/Python to Rust, targeting 60-80% reduction in cloud compute costs through Rust's zero-cost abstractions, minimal memory footprint, and elimination of garbage collection overhead.",
   "why_we_care": "Cloud compute costs are a growing budget concern, and our Java microservices often over-allocate resources due to JVM overhead. Rust rewrites for select high-traffic services could dramatically cut infrastructure costs while improving latency and reliability. The key question is whether the productivity trade-off (slower initial development, smaller talent pool) is worth the operational savings — this intell tracks that evaluation.",
   "summary": "Evaluating the business case for rewriting performance-critical microservices in Rust to achieve 60-80% cloud compute savings through elimination of garbage collection, lower memory footprint, and reduced container resource requirements.",
@@ -32,7 +32,8 @@
     "finops"
   ],
   "created_at": "2026-03-15T21:54:52.939Z",
-  "updated_at": "2026-03-15T22:14:06.893Z",
+  "updated_at": "2026-03-16T00:22:34.899Z",
   "created_by": null,
-  "updated_by": "copilot"
+  "updated_by": "pjmp020564",
+  "source_hub": null
 }
