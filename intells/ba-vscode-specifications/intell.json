@@ -15,7 +15,8 @@
   "linked_issues": [],
   "linked_discussions": [],
   "linked_files": [
-    "studies/we-need-to-see-if-this-is-avalid-assumption-by-engagaging-in.md"
+    "studies/we-need-to-see-if-this-is-avalid-assumption-by-engagaging-in.md",
+    "studies/find-out-if-anyone-in-the-market-is-looking-at-this-opportun.md"
   ],
   "artifacts": [
     {
@@ -24,6 +25,15 @@
       "title": "we need to see if this is avalid assumption by engagaging in a trial with one or 2 select business abalyst",
       "path": "studies/we-need-to-see-if-this-is-avalid-assumption-by-engagaging-in.md",
       "summary": "how to we evalaution - what action , how to do and son",
+      "created_at": "2026-03-16T00:00:00.000Z",
+      "valid_until": null
+    },
+    {
+      "id": "d656dc53-0135-41f0-917d-fde335878948",
+      "kind": "study",
+      "title": "Find out if anyone in the market is looking at this opportunity",
+      "path": "studies/find-out-if-anyone-in-the-market-is-looking-at-this-opportun.md",
+      "summary": "Search the web for relevant information about it.",
       "created_at": "2026-03-16T00:00:00.000Z",
       "valid_until": null
     }
@@ -43,7 +53,7 @@
     "markdown"
   ],
   "created_at": "2026-03-15T21:54:36.520Z",
-  "updated_at": "2026-03-16T00:03:52.109Z",
+  "updated_at": "2026-03-16T00:09:38.913Z",
   "created_by": null,
   "updated_by": "pjmp020564",
   "source_hub": null
