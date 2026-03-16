@@ -20,7 +20,7 @@
   "key_links": [
     {
       "label": "OpenAI Codex — Official Page",
-      "url": "https://openai.com/index/codex/"
+      "url": "https://openai.com/codex/"
     },
     {
       "label": "OpenAI Codex CLI (GitHub)",
@@ -38,7 +38,8 @@
     "terminal"
   ],
   "created_at": "2026-03-15T21:48:24.357Z",
-  "updated_at": "2026-03-15T22:13:05.832Z",
+  "updated_at": "2026-03-16T09:02:41.653Z",
   "created_by": null,
-  "updated_by": "copilot"
+  "updated_by": "pjmp020564",
+  "source_hub": null
 }
