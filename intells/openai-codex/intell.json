@@ -25,6 +25,10 @@
     {
       "label": "OpenAI Codex CLI (GitHub)",
       "url": "https://github.com/openai/codex"
+    },
+    {
+      "label": "OpenAI codex - for developpers",
+      "url": "https://developers.openai.com/codex"
     }
   ],
   "tags": [
@@ -38,7 +42,7 @@
     "terminal"
   ],
   "created_at": "2026-03-15T21:48:24.357Z",
-  "updated_at": "2026-03-16T09:02:41.653Z",
+  "updated_at": "2026-03-16T09:04:49.720Z",
   "created_by": null,
   "updated_by": "pjmp020564",
   "source_hub": null
