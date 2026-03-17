@@ -1,0 +1,136 @@
+{
+  "date": "2026-03-17",
+  "total": 16,
+  "by_phase": {
+    "technology": 2,
+    "tools": 2,
+    "process": 9,
+    "other": 3
+  },
+  "by_status": {
+    "active": 15,
+    "delivered": 1,
+    "parked": 0
+  },
+  "by_impact": {
+    "low": 3,
+    "high": 4,
+    "unknown": 7,
+    "critical": 2
+  },
+  "contributors": 3,
+  "intells": [
+    {
+      "slug": "intelhub",
+      "type": "technology",
+      "ring": "trial",
+      "status": "being-assessed",
+      "expected_impact": "low"
+    },
+    {
+      "slug": "claude-code-evaluation",
+      "type": "tools",
+      "ring": "trial",
+      "status": "being-assessed",
+      "expected_impact": "high"
+    },
+    {
+      "slug": "kiro-evaluation",
+      "type": "tools",
+      "ring": "assess",
+      "status": "being-assessed",
+      "expected_impact": "low"
+    },
+    {
+      "slug": "spec-driven-development-methods",
+      "type": "process",
+      "ring": "hold",
+      "status": "potential",
+      "expected_impact": "low"
+    },
+    {
+      "slug": "aws-strands-agentic-systems",
+      "type": "technology",
+      "ring": "adopt",
+      "status": "being-assessed",
+      "expected_impact": "high"
+    },
+    {
+      "slug": "github-copilot",
+      "type": "other",
+      "ring": "adopt",
+      "status": "delivered",
+      "expected_impact": "high"
+    },
+    {
+      "slug": "windsurf-cascade-ide-solution",
+      "type": "other",
+      "ring": "trial",
+      "status": "human-reviewed",
+      "expected_impact": "high"
+    },
+    {
+      "slug": "emerging-ai-coding-tools-new-contenders-and-paradigms",
+      "type": "process",
+      "ring": "hold",
+      "status": "human-reviewed",
+      "expected_impact": "unknown"
+    },
+    {
+      "slug": "vscode-custom-agents",
+      "type": "other",
+      "ring": "hold",
+      "status": "being-assessed",
+      "expected_impact": "unknown"
+    },
+    {
+      "slug": "openai-codex",
+      "type": "process",
+      "ring": "hold",
+      "status": "potential",
+      "expected_impact": "unknown"
+    },
+    {
+      "slug": "devin-cognition",
+      "type": "process",
+      "ring": "hold",
+      "status": "potential",
+      "expected_impact": "unknown"
+    },
+    {
+      "slug": "augment-code",
+      "type": "process",
+      "ring": "hold",
+      "status": "potential",
+      "expected_impact": "unknown"
+    },
+    {
+      "slug": "mistral-vibe",
+      "type": "process",
+      "ring": "hold",
+      "status": "potential",
+      "expected_impact": "unknown"
+    },
+    {
+      "slug": "ai-dlc-enterprise-evaluation",
+      "type": "process",
+      "ring": "assess",
+      "status": "being-assessed",
+      "expected_impact": "unknown"
+    },
+    {
+      "slug": "ba-vscode-specifications",
+      "type": "process",
+      "ring": "hold",
+      "status": "being-assessed",
+      "expected_impact": "critical"
+    },
+    {
+      "slug": "rust-microservice-rewrite",
+      "type": "process",
+      "ring": "hold",
+      "status": "to-be-assessed",
+      "expected_impact": "critical"
+    }
+  ]
+}
